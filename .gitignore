@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+**/.DS_Store
+._*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS junk
+Thumbs.db
+Desktop.ini
+
+# Node (shouldn't be here but just in case)
+node_modules/
+
+# Temp
+tmp/
+*.tmp

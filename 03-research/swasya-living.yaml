@@ -1,0 +1,64 @@
+name: Swasya (formerly Swasya Living)
+category: Managed farmland (premium, gated community)
+urls:
+  primary: https://www.swasya.com/  # swasyaliving.com 308-redirects here
+  flagship: https://www.swasya.com/properties/sannidhi
+positioning: "Aspirational eco-retreat — managed organic farmland with full BnB operations"
+target_audience: "HNI buyers wanting turnkey weekend retreat with amenities and income"
+geography:
+  - Sannidhi Ecofarms — Kelavalli, Sakleshpur, Hassan (4hr/220km from BLR)
+  - Vana Vida — Kanakapura
+  - Sahya Retreat — Lonavla, MH (outside South India)
+pricing:
+  per_sqft: "₹309/sqft (Sannidhi, via theresidentially.com affiliate; not verbatim on own site)"
+  per_acre_implied: "~₹1.35 Cr/acre"
+  per_plot: unknown  # not on public site
+  plot_size_range: unknown  # resolve via +91 81058 50547 / hello@swasya.com
+  maintenance_fee: unknown
+  hidden_costs: unknown
+project_scale: "Sannidhi: 36-38 acres, 16,000+ trees, 4 lakes"
+amenities:
+  - Clubhouse, swimming pool, football turf
+  - Community kitchen, cottages, temple
+  - AI-CCTV + guards + caretakers
+  - Automated drip irrigation
+  - Watch tower, pond
+crops_managed: ["Arabica coffee", "pepper", "arecanut"]
+claimed_returns: "up to 11% rental income + real-estate appreciation"
+exit_resale: unknown  # not addressed on site
+strengths:
+  - Strong brand recognition in Bangalore HNI circles
+  - Full BnB operations + yield story
+  - Managed lifestyle product (zero buyer effort)
+  - Professional legal/registration handling
+  - Mature organic plantation (not greenfield)
+weaknesses:
+  - "Sakleshpur 4hr from Bangalore = weakest location-to-use-case fit in set"
+  - 5–8× premium over raw Sakleshpur plantation land
+  - Locked into Swasya inventory
+  - Price/plot size hidden behind lead form
+  - Exit terms undefined
+  - Community/amenity rules constrain construction
+premium_multiple: "~5–8× raw Sakleshpur plantation"
+best_for: "HNI buyers prioritising convenience + managed yield + brand trust; willing to pay premium and tolerate 4hr drive"
+not_ideal_for:
+  - Price-sensitive buyers
+  - Buyers needing <2hr drive for weekend use
+  - Buyers wanting custom construction
+  - Investors wanting upside on raw-land appreciation
+reviews:
+  surfaced_negative: None found in Reddit / Google / ConsumerComplaints
+  caveat: "HNI WhatsApp-group buyer cohort doesn't post publicly. Absence of complaints != absence of issues."
+legal_disputes: None surfaced
+migration_angle: >
+  Not true "migration" — different products. Position as COMPLEMENTARY:
+  Swasya for managed retreat lifestyle; TruePlots for choice + price + investment flexibility.
+  TruePlots angle: "If Sakleshpur 4hr drive is too far, browse verified plots 60-90 min from Bangalore at 40-60% lower price per acre."
+sources:
+  - https://www.swasya.com/
+  - https://www.swasya.com/properties/sannidhi
+  - https://theresidentially.com/sannidhi-eco-farms-swasya-living-sakleshpur-bangalore/
+  - https://www.propertygeek.in/sannidhi-eco-farms-farmland-in-bangalore/
+primary_research_needed:
+  - Mystery-shopper call to resolve plot sizes, maintenance fee, exit terms
+  - Site visit to verify claimed amenities / organic plantation maturity

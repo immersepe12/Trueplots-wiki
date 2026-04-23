@@ -1,0 +1,68 @@
+# Grouped profile for secondary urban plot competitors
+# (MagicBricks, Homes247, Square Yards, RoofAndFloor, Housing.com)
+# Lower strategic threat than NoBroker and 99acres but worth monitoring.
+
+magicbricks:
+  category: Incumbent listings portal (secondary to 99acres)
+  url: https://www.magicbricks.com/residential-land-plots-for-sale-in-bangalore-pppfs
+  inventory: "15k+ estimate (anti-bot blocked exact count)"
+  verification: "'Verified owner' self-cert tag; marketing-grade only"
+  fractional: None
+  business_model: Listing + lead
+  threat: LOW on fractional (lead-gen moat, no operational appetite); MEDIUM on verification upgrade
+  competitive_risk: "SEO competition on 'plots Bangalore' — same as 99acres"
+
+homes247:
+  category: Mid-tier full-service plot platform (Bangalore-focused)
+  url: https://www.homes247.in/plots-in-bangalore
+  inventory: '"Handpicked" curation; size not published'
+  verification: '"Verified and handpicked" — no public audit process'
+  fractional: None
+  business_model: "Transaction-led + bundled services (loans, interiors)"
+  threat: LOW (small scale, not differentiated enough to copy fractional fast)
+
+square_yards:
+  category: Aggregator
+  url: https://www.squareyards.com/sale/plots-for-sale-in-bangalore
+  inventory: "34,589 plot listings (aggregator — many duplicates)"
+  verification: "Broker-sourced; minimal"
+  fractional: None
+  business_model: Brokerage commission
+  threat: LOW (aggregator model, not an operator)
+
+roof_and_floor:
+  category: Editorial-style listings (The Hindu group)
+  inventory: "Active"
+  verification: "Editorial curation; no deep legal"
+  fractional: None
+  threat: LOW
+
+housing_com:
+  category: Incumbent listings portal
+  inventory: "Similar scale to 99acres/MagicBricks"
+  verification: "Self-cert tags"
+  fractional: None
+  threat: LOW-MEDIUM on verification upgrade (REA Group-owned, has resources)
+
+global_realtor:
+  category: Niche BDA-specialist
+  url: https://www.globalrealtor.co.in/sites-plots-for-sale-bangalore
+  inventory: "Niche BDA-approved focus"
+  verification: "Claims manual BDA verification (small shop)"
+  fractional: None
+  business_model: Brokerage
+  threat: LOW (small shop, no scale)
+
+dormant_or_non_existent:
+  aasaan:
+    note: "aasaan.app is a small-business listing/tool platform — NOT a Bangalore plots marketplace. Not a competitor."
+  propertygully:
+    note: "No evidence of operations at scale; brand doesn't surface in Bangalore plot search. Likely dormant."
+  plotstore:
+    note: "No material Bangalore presence surfaced. Likely dormant."
+  research_conclusion: "These three names from the brief are not real competitive threats. Confirm via MCA/GST pull if primary research budget allows — but deprioritize for scoping."
+
+cross_cutting_read: >
+  Secondary players are sufficiently weak that TruePlots urban competitive pressure is really
+  just NoBroker + 99acres + layout developers (NBR Group et al). The long tail of listings
+  portals are SEO/paid-ads distribution competitors, not product-feature copyists.

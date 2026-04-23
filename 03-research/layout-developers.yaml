@@ -1,0 +1,47 @@
+# Layout developers — adjacent category, potential pre-subdivision fractional threat
+
+prestige_plotted:
+  parent: Prestige Group
+  2025_26_pipeline: [Marigold Phase 2, Crystal Lawns, Greenbrook, Autumn Leaves, Gardenia Estate II]
+  flagship: "Crystal Lawns — IVC Road/Devanahalli, ~50 acres, ~500 plots, est ₹8,000/sqft, base ₹1.2Cr"
+  sale_model: "First-sale, solo buyer"
+  fractional: No
+  threat: "LOW — won't fragment premium brand on fractional"
+
+brigade_plotted:
+  parent: Brigade Group
+  2025_pipeline: "Malur (East Bangalore), 20 acres, ₹175Cr GDV — first plotted development"
+  sale_model: "First-sale solo"
+  fractional: No
+  threat: "LOW — premium brand, not fractional-friendly"
+
+sobha:
+  positioning: "Historically villa/apartment"
+  plotted_pipeline: "No prominent pure-plot 2025 SKU"
+  threat: "LOW"
+
+nbr_group:
+  category: "BMRDA-approved layout seller (dominant brand)"
+  projects: [NBR Green Valley, Orange Country, Golden Valley, Elite, Lakeview]
+  locations: [Devanahalli, Sarjapur, Chandapura]
+  sale_model: "Solo-buyer plot sales with 75% bank financing typical"
+  fractional: No
+  url: https://www.nbrgroup.in/bmrda-approved-sites-sale-bangalore
+  threat_12_months:
+    fractional: "MEDIUM — could pre-subdivide unsold 60×40 inventory into 2×30×40 fractional SKUs on their own stock. They have BBMP/BMRDA bifurcation relationships, approvals, plots."
+    verification: "Not applicable — they're developer, not marketplace"
+  how_to_engage:
+    - "Potential supply-side partner rather than competitor"
+    - "They have stuck inventory (similar to farmland large-plot thesis); TruePlots could unstick for them"
+    - "Win-win: NBR offloads inventory + TruePlots gets verified premium supply"
+
+mid_tier_bmrda_developers:
+  names: [Oraiyan Groups, Vaishnavi, Aashrithaa]
+  similar_profile: "Solo-buyer layout plots, BMRDA-approved, 75% bank financing"
+  fractional: No
+  threat: "LOW individually, MEDIUM in aggregate if one moves"
+
+cross_cutting:
+  - "Layout developers' incentive = full-priced solo sales. Fractional is orthogonal."
+  - "BUT if NBR Group (or similar) has stuck unsold 60×40 inventory, pre-subdivision into 2×30×40 fractional SKUs becomes commercially attractive. This is the Saptashwa Jagati Farms analog in urban."
+  - "TruePlots should proactively scout for BMRDA layout developers with >6-month unsold 60×40+ inventory as supply-side deal flow."

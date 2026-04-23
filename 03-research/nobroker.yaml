@@ -1,0 +1,54 @@
+name: NoBroker
+category: Direct urban plot competitor (HIGHEST threat level for TruePlots urban)
+url: https://www.nobroker.in/residential-land-plots-for-sale-in-bangalore_bangalore
+positioning: "Zero-brokerage property marketplace — owner-direct listings"
+business_model:
+  type: "Freemium marketplace with paid packs + service bundles"
+  revenue: "Owner-subscription packs + paid services (legal verification, home loans, packers/movers) + commission-free positioning vs traditional brokers"
+  funding: "Heavily funded (Tiger Global, Accel, General Atlantic); aggressive growth"
+bangalore_plot_inventory: "6,768 plot listings (April 2026)"
+verification_layer:
+  marketing_grade: "Owner-direct verification claim"
+  legal_grade: "ADVOCATE-BASED LEGAL VERIFICATION AS PAID UPSELL — ~₹10-25K per property"
+  coverage: "BDA layout legitimacy checks claimed for some listings"
+fractional_offering: "None currently"
+strengths:
+  - Largest owner-direct urban plot inventory in Bangalore (6,768)
+  - Legal verification ALREADY in product as paid service
+  - Anti-broker brand narrative aligns naturally with TruePlots positioning
+  - Funded, scale, product velocity
+  - Home loan + registration services already bundled
+  - Strong SEO on "plot Bangalore" long-tail
+weaknesses:
+  - Verification is lawyer-referral, not deep title/encumbrance/khata audit
+  - No fractional / joint-buying product
+  - No specialized farmland or managed-farmland offering
+  - Generic listings UX, not specialist UX
+threat_assessment:
+  why_dangerous: >
+    NoBroker is the single largest fast-follow threat to TruePlots urban. They already have
+    (a) legal verification as paid upsell, (b) owner-direct positioning that aligns with
+    disintermediation, (c) scale (6,768 Bangalore plot listings), (d) capital and product
+    velocity to ship fractional in one quarter.
+  copy_speed:
+    verification_deepening: "1 quarter (roadmap upgrade)"
+    fractional_product: "1-2 quarters if TruePlots validates demand"
+  likelihood_12_months: "HIGH — likely to ship both verification deepening AND fractional feature if TruePlots demonstrates product-market fit"
+competitive_positioning_for_trueplots:
+  against_nobroker:
+    - "Specialist depth vs generalist breadth (TruePlots only does plots + farmland, operated end-to-end)"
+    - "Subdivision execution muscle (BBMP khata bifurcation playbook + licensed surveyor + lawyer network as integrated stack, not upsell)"
+    - "Co-buyer matching network (NoBroker has no user-to-user matchmaking)"
+    - "Services bundling margin vs listing-lead-gen margin"
+  against_trueplots_weaknesses:
+    - "NoBroker already has brand trust in Bangalore urban buyer mind-share"
+    - "NoBroker's zero-brokerage framing puts pressure on TruePlots' 1-2% take rate"
+    - "NoBroker can subsidize fractional feature as loss-leader to defend core"
+sources:
+  - https://www.nobroker.in/residential-land-plots-for-sale-in-bangalore_bangalore
+  - https://www.nobroker.in/forum/what-is-real-estate-broker-commission/
+  - https://www.nobroker.in/blog/akrama-sakrama-scheme/
+primary_research_needed:
+  - LinkedIn Sales Nav: is their PM team scoping fractional / co-buying? Job postings?
+  - Mystery-shop their legal verification service — what's the actual depth vs just a lawyer referral?
+  - Test their funnel with a high-ticket plot inquiry — how aggressive is their sales response?

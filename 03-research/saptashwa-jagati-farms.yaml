@@ -1,0 +1,45 @@
+name: Saptashwa Jagati Farms
+category: DIRECT FRACTIONAL COMPETITOR (newly-identified — was NOT in v1 analysis or brief)
+source_discovered: 99acres Kanakapura listing April 2026
+urls:
+  listings: "Multiple active listings on 99acres Kanakapura agri search"
+location: "Kanakapura Road, Bangalore Rural, Karnataka"
+why_critical: >
+  THIS IS THE MOST IMPORTANT FINDING OF PHASE 1 RESEARCH.
+  Saptashwa Jagati Farms is already running a variant of the exact model TruePlots proposes —
+  in TruePlots' target geography — at TruePlots' target ticket size.
+business_model:
+  type: "Pre-subdivided managed farmland sold as individual slices"
+  exact_structure: >
+    15-acre estate subdivided by the developer into ~600-sqyd (~0.13 acre) slices.
+    Each slice priced at ₹45.74 lakh. Marketing emphasises "Non-Profit-Sharing model
+    ensuring complete ownership" — i.e., each buyer gets individual title, not a share
+    in a trust or SPV.
+  key_distinction_from_trueplots: >
+    Saptashwa pre-subdivides on its own balance sheet and markets one-buyer-one-slice.
+    TruePlots' distinctive fractional model is post-sale subdivision after stranger buyers
+    jointly purchase one large plot. Saptashwa = developer-led pool; TruePlots = buyer-formed
+    pool. Economic outcome for buyer is similar; operational and capital structure is
+    different.
+pricing:
+  per_slice: "₹45.74 lakh"
+  slice_size: "~600 sqyd (~0.13 acre)"
+  effective_per_acre: "~₹3.5 Cr/acre"
+  premium_over_raw_kanakapura: "~2-3× raw agri (₹1.2 Cr/acre median)"
+listings_observed_on_99acres: "Multiple duplicate listings active April 2026 (~3 visible)"
+posting_entity: "Property Developer + Individual Consultant (Dealer tag on 99acres)"
+commercial_implications_for_trueplots:
+  - "Brief claim 'no established fractional-farmland platform operating in India' needs update"
+  - "Demand at ₹40-50L ticket in Kanakapura is PROVEN — a dealer is actively syndicating at this price"
+  - "Saptashwa is capturing the 2-3× premium that TruePlots' lower-margin model targets to compete against"
+  - "TruePlots competitive pitch becomes: same ticket, same geography, broader inventory (not locked to one 15-acre estate), likely lower premium (no developer margin stack)"
+  - "Or: Saptashwa-style pre-subdivision may actually be operationally easier than TruePlots' post-sale subdivision — and developers already do it. Worth considering whether TruePlots' post-sale subdivision is genuinely better, or just different."
+sources:
+  - 99acres Kanakapura agricultural search (retrieved 2026-04-18)
+  - URL: https://www.99acres.com/search/property/buy/agricultural-land/kanakapura?city=217&keyword=Kanakapura&property_type=20&preference=S&area_unit=2&res_com=C
+primary_research_needed_URGENTLY:
+  - "Direct inquiry (mystery shopper) to Saptashwa Jagati Farms: legal structure, actual title document (sale deed? layout approval? individual khata post-sale?)"
+  - "Their developer margin stack — what's their land acquisition cost, operating cost, and spread on each slice?"
+  - "Their buyer acquisition channel — how are they sourcing ₹45L buyers?"
+  - "Construction/amenity/maintenance policy — is this pure land, or managed community?"
+  - "Exit terms for buyers who want to resell"

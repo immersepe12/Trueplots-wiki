@@ -1,0 +1,57 @@
+name: Farmland Bazaar
+category: Direct competitor (marketplace aggregator)
+urls:
+  primary: https://farmlandbazaar.com
+  listings: https://farmlandbazaar.com/property-list/
+  linkedin: https://in.linkedin.com/company/farmlandbazaar
+  press_2025: https://www.business-standard.com/content/press-releases-ani/farmlandbazaar-com-named-emerging-proptech-leader-2025-surpasses-50-000-acres-of-farmland-listings-125060900679_1.html
+positioning: "AI-powered farmland marketplace across India"
+founding:
+  year: 2021
+  parent: Elegance Enterprises (Bangalore)
+  founders: "Ravi Kant, Pavan Tripathi (2021 coverage) / Pawan Gupta (2025 coverage)"
+business_model:
+  type: "Marketplace — aggregates listings from multiple developers"
+  confirmed_by: "Triguna, Sanctity Ferme 3.0, Sannidhi (Swasya), Mytan Anadavana all listed as separate developer entries"
+  revenue_model: "Not publicly disclosed. Likely listing fees + lead-referral commission. ZoomInfo entry exists but revenue gated."
+scale_signals:
+  acres_listed: "50,000+ (June 2025 press)"
+  similarweb: unknown  # not in top-3 India agriculture sites (bighaat, remsl, agribegri lead)
+  headcount: unknown  # LinkedIn exists, not in public snippets
+  recognition: "Emerging PropTech Leader 2025 (self-reported)"
+verification_practices: >
+  NOT disclosed publicly on site. About/Verification pages not crawlable (React SPA returns
+  empty HTML shell). No visible trust/safety/escrow/title-audit product flow.
+strengths:
+  - 4+ years head start
+  - 50k-acre listing inventory claim
+  - SEO surface and press footprint
+  - Multi-developer aggregation proves marketplace model viable
+weaknesses:
+  - React SPA shell = poor indexable content; SEO may be thinner than acres-claim suggests
+  - Zero visible verification layer (this is the TruePlots wedge)
+  - Acres-LISTED is vanity; sold acres / verified listings / GMV unpublished
+  - No escrow, no buyer protection, no legal structuring
+  - No fractional/joint-buying product
+negative_signals:
+  reviews: None surfaced (consistent with young + low-engagement marketplace)
+  legal_disputes: None surfaced
+competitive_read: >
+  The incumbent in TruePlots' exact marketplace slot. Strengths are marketing/SEO/listing scale.
+  Weaknesses are product depth — no trust layer, no verification, no services, no fractional.
+  TruePlots could displace purely on product depth IF verification + fractional are executed
+  well at smaller listing count. Farmland Bazaar's "50k acres" is less defensible than it sounds
+  because the buyer-side friction (verification, legal, services) is where the real customer
+  value accrues.
+threat_level_12_months: MEDIUM — strong brand/SEO lead, but thin product moat
+threat_level_24_months: HIGH IF THEY ADD VERIFICATION — could close the trust gap quickly with one good lawyer partnership and a verification report template
+sources:
+  - https://farmlandbazaar.com
+  - https://www.business-standard.com/content/press-releases-ani/farmlandbazaar-com-named-emerging-proptech-leader-2025-surpasses-50-000-acres-of-farmland-listings-125060900679_1.html
+  - https://theprint.in/ani-press-releases/farmlandbazaar-com-named-emerging-proptech-leader-2025-surpasses-50000-acres-of-farmland-listings/
+  - https://www.business-standard.com/content/press-releases-ani/bangalore-based-property-consultancy-elegance-enterprises-launches-an-online-marketplace-dedicated-to-farmlands-121061401289_1.html
+primary_research_needed:
+  - LinkedIn Sales Navigator for headcount/hiring signals
+  - Paid Similarweb for actual traffic
+  - Verified transaction count (not acres listed)
+  - Direct broker conversations: do brokers treat it as a real demand channel or a vanity listing venue?

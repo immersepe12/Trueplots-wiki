@@ -1,0 +1,36 @@
+name: 99acres (plots vertical)
+category: Incumbent listings portal
+url: https://www.99acres.com/residential-land-in-bangalore-ffid
+parent: InfoEdge (Naukri, Jeevansathi)
+positioning: "India's largest real estate portal"
+business_model:
+  type: "Listings + lead-gen"
+  revenue: "Listing fees from sellers/brokers + premium placement + lead referral"
+bangalore_plot_inventory: "~15,367 plot listings"
+verification_layer:
+  marketing_grade: "'Verified' badge — self-declared by seller, marketing-level only"
+  legal_grade: "None native; may refer to third-party legal services as upsell"
+fractional_offering: "None; philosophically off-brand for InfoEdge's lead-gen DNA"
+strengths:
+  - Largest plot inventory in Bangalore (~15K)
+  - Strongest SEO footprint on "plots Bangalore"
+  - Incumbent brand trust
+  - Massive consumer reach beyond just plots
+weaknesses:
+  - Zero legal-grade verification
+  - No subdivision, no fractional, no buyer matching
+  - Generic UX — not specialist
+  - Lead-gen incentive structure misaligned with buyer outcome
+threat_assessment:
+  verification_upgrade: "MEDIUM — could upgrade 'Verified' badge to legal-grade within 12 months; roadmap play, not reinvention"
+  fractional_feature: "LOW — InfoEdge business model is lead-gen, not operational execution. Fractional requires subdivision muscle they don't have and don't want."
+competitive_positioning_for_trueplots:
+  against_99acres:
+    - "99acres is discovery; TruePlots is discovery + verification + transaction + post-purchase"
+    - "99acres inventory-max; TruePlots quality-filtered + pre-verified"
+    - "99acres broker/owner lead; TruePlots specialist-led transaction"
+  against_trueplots_weaknesses:
+    - "99acres' SEO and inventory breadth is a real headwind for TruePlots urban SEO"
+    - "Buyers default to 99acres for 'first search'; TruePlots must win on second-visit"
+sources:
+  - https://www.99acres.com/residential-land-in-bangalore-ffid
